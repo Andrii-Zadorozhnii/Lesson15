@@ -1,0 +1,6 @@
+@use "variables";
+
+%defultBorder{
+    border: 1px solid variables.$light;
+    border-radius: variables.$radiusDefault;
+}

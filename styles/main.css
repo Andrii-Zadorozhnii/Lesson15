@@ -3,6 +3,13 @@
   border-radius: 5px;
 }
 
+.absolute {
+  background: red;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+
 * {
   margin: 0;
   box-sizing: border-box;

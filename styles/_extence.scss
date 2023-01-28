@@ -4,3 +4,10 @@
     border: 1px solid variables.$light;
     border-radius: variables.$radiusDefault;
 }
+
+%absoluteCenter{
+    background: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
